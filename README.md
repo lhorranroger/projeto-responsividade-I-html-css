@@ -5,3 +5,6 @@
 <br>
 <br>
 <img src="https://github.com/lhorranroger/projeto-responsividade-I-html-css/blob/main/assets/projeto-responsividade-I-html-css-image-desktop.png?raw=true">
+<br>
+<br>
+<img src="https://github.com/lhorranroger/projeto-responsividade-I-html-css/blob/main/assets/projeto-responsividade-I-html-css-image-mobile.png?raw=true">
